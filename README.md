@@ -89,8 +89,5 @@
 
 Открыт к задачам по разработке, поддержке и доработке сайтов на 1С-Битрикс.
 
-<!-- Здесь можно добавить ссылки:
-- Telegram:
-- Сайт:
-- Email:
--->
+- Telegram: @alexivfreeworld
+- Email: alex.iv.freeworld@gmail.com
